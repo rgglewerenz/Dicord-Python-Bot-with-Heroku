@@ -1,0 +1,5 @@
+discord.py == 1.7.0
+youtube-dl
+PyNaCl == 1.4.0
+spotipy
+pytube
