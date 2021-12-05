@@ -27,4 +27,4 @@ discordpythonbotheroku@gmail.com
 
 
 
-Please not that it might take up to 3-5 days before I am able to answer a question.
+Please note that it may take up to 3-5 days before I am able to answer a question.
